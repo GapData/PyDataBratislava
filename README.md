@@ -12,7 +12,7 @@ All the documents, presentations for PyDataBratislava
 ##Contact: radovan.kavicky@gapdata.org
 
 #Our meetups (so far):
-##2017-2-13 [PyData Bratislava Meetup #1 [Power of Python, R & Tableau in Data Science]](https://github.com/GapData/PyDataBratislava/tree/master/2017_2_13_PyDataBratislava_MeetUp1), [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/blob/master/2017_2_13_PyDataBratislava_MeetUp1/pydata2017_PyRTab_datascience_final.pdf), [Slideshare](https://www.slideshare.net/radovan.kavicky), [YouTube](https://www.youtube.com/channel/UCrEhsBunvyE2jZ5NN3R44hg)
+##2017-2-13 [PyData Bratislava Meetup #1 [Power of Python, R & Tableau in Data Science]](https://github.com/GapData/PyDataBratislava/tree/master/2017_2_13_PyDataBratislava_MeetUp1), [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/blob/master/2017_2_13_PyDataBratislava_MeetUp1/pydata2017_PyRTab_datascience_final.pdf), [Slideshare](https://www.slideshare.net/radovan.kavicky/power-of-python-r-tableau-in-data-science-radovan-kavick-pydata-bratislava-meetup-1), [YouTube](https://www.youtube.com/watch?v=XYpKpmapqjI)
 
 https://www.meetup.com/PyData-Bratislava/events/237319355/
 
