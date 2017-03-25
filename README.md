@@ -27,7 +27,7 @@ All the documents, presentations for PyDataBratislava
 ### Our Twitter account (follow us here): https://twitter.com/PyDataBA
 
 ### We are always on the lookout for speakers for our monthly meetups. Please get in contact if you are interested in giving a talk. 
-## #DataScience #R 
+## #DataScience #R #Statistics
 
 ## Contact: radovan.kavicky@gapdata.org
 
