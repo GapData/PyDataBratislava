@@ -1,4 +1,4 @@
-# PyDataBratislava
+# PyData Bratislava
 All the documents, presentations for PyDataBratislava
 ![PyDataBratislava](https://github.com/GapData/PyDataBratislava/blob/master/PyDataLogoBratislava.png)
 # Our MeetUp Groups: [#Meetup.com Group](https://www.meetup.com/PyData-Bratislava/), [#Facebook Group](https://www.facebook.com/groups/1813599648877946/), [#LinkedIn Group](https://www.linkedin.com/groups/13506080), [#Slack](https://gapdata.slack.com/messages/py-data/)
@@ -32,7 +32,7 @@ All the documents, presentations for PyDataBratislava
 ## Contact: radovan.kavicky@gapdata.org
 
 # Our meetups (so far):
-## 2017-3-22 [PyData Bratislava R <- Slovakia Meetup #1](https://github.com/GapData/PyDataBratislava/tree/master/2017_3_22_PyDataBratislava_RSlovakia_MeetUp1) [[Peter Laurinec](https://github.com/PetoLau): Clustering Electricity Consumers & Prediction], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/blob/master/2017_3_22_PyDataBratislava_RSlovakia_MeetUp1/2017_3_22_PyDataBratislava_RSlovakia_MeetUp1.pdf), [Slideshare](https://www.slideshare.net/PeterLaurinec/r-lt-slovakia-1-meetup), [YouTube](https://www.youtube.com/watch?v=XYpKpmapqjI)
+## 2017-3-22 [PyData Bratislava R <- Slovakia Meetup #1](https://github.com/GapData/PyDataBratislava/tree/master/2017_3_22_PyDataBratislava_RSlovakia_MeetUp1) [[Peter Laurinec](https://github.com/PetoLau): Clustering Electricity Consumers & Prediction], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/blob/master/2017_3_22_PyDataBratislava_RSlovakia_MeetUp1/2017_3_22_PyDataBratislava_RSlovakia_MeetUp1.pdf), [Slideshare](https://www.slideshare.net/PeterLaurinec/r-lt-slovakia-1-meetup), [YouTube](https://www.youtube.com/watch?v=ENlo0a1-5Uo)
 
 * https://www.meetup.com/R-Slovakia/events/238251298/
 
