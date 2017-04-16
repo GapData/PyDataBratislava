@@ -20,6 +20,14 @@ All the documents, presentations for PyDataBratislava
 
 * https://www.facebook.com/events/148499092321506/
 
+## 2017-3-27 [PyData Bratislava Meetup #2](https://github.com/GapData/PyDataBratislava/tree/master/2017_3_27_PyDataBratislava_MeetUp2) [[Jan Margeta](https://github.com/jmargeta): Bringing medical imaging data to life], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/blob/master/2017_3_27_PyDataBratislava_MeetUp2/2017-03-27-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/radovan.kavicky/power-of-python-r-tableau-in-data-science-radovan-kavick-pydata-bratislava-meetup-1), [YouTube](https://www.youtube.com/watch?v=XYpKpmapqjI)
+
+* https://www.meetup.com/PyData-Bratislava/events/238557294/
+
+* https://www.eventbrite.com/e/pydata-bratislava-meetup-2-bringing-medical-imaging-data-to-life-registration-33002993843#
+
+* https://www.facebook.com/events/292934061138671/
+
 ![R <- Slovakia](https://github.com/GapData/PyDataBratislava/blob/master/PyDataLogoRSlovakia.png)
 # Our MeetUp Groups: [#Meetup.com Group](https://www.meetup.com/R-Slovakia/), [#Facebook Group](https://www.facebook.com/groups/931707906955080/), [#LinkedIn Group](https://www.linkedin.com/groups/13503959), [#Slack](https://gapdata.slack.com/messages/r-slovakia/)
 
