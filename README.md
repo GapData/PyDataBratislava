@@ -20,7 +20,7 @@ All the documents, presentations for PyDataBratislava
 
 * https://www.facebook.com/events/148499092321506/
 
-## 2017-3-27 [PyData Bratislava Meetup #2](https://github.com/GapData/PyDataBratislava/tree/master/2017_3_27_PyDataBratislava_MeetUp2) [[Jan Margeta](https://github.com/jmargeta): Bringing medical imaging data to life], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_3_27_PyDataBratislava_MeetUp2/2017-03-27-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/radovan.kavicky/power-of-python-r-tableau-in-data-science-radovan-kavick-pydata-bratislava-meetup-1), [YouTube](https://www.youtube.com/watch?v=XYpKpmapqjI)
+## 2017-3-27 [PyData Bratislava Meetup #2](https://github.com/GapData/PyDataBratislava/tree/master/2017_3_27_PyDataBratislava_MeetUp2) [[Jan Margeta](https://github.com/jmargeta): Bringing medical imaging data to life], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_3_27_PyDataBratislava_MeetUp2/2017-03-27-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/jn-margeta-bringing-medical-imaging-data-to-life-pydata-bratislava-meetup-2), [YouTube](https://www.youtube.com/watch?v=XYpKpmapqjI)
 
 * https://www.meetup.com/PyData-Bratislava/events/238557294/
 
