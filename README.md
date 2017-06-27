@@ -28,13 +28,21 @@ All the documents, presentations for PyDataBratislava
 
 * https://www.facebook.com/events/292934061138671/
 
-## 2017-5-15 [PyData Bratislava Meetup #3](https://github.com/GapData/PyDataBratislava/tree/master/2017_5_15_PyDataBratislava_MeetUp3) [[Matúš Cimerman](https://github.com/cimox): Building AI data pipelines using PySpark], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_5_15_PyDataBratislava_MeetUp3/2017-05-15-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/mat-cimerman-building-ai-pipelines-using-pyspark-pydata-bratislava-meetup-3), [YouTube](https://www.youtube.com/watch?v=4wq0xSo12tg)
+## 2017-5-15 [PyData Bratislava Meetup #3](https://github.com/GapData/PyDataBratislava/tree/master/2017_5_15_PyDataBratislava_MeetUp3) [[Matúš Cimerman](https://github.com/cimox): Building AI data pipelines using PySpark], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_5_15_PyDataBratislava_MeetUp3/2017-05-15-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/mat-cimerman-building-ai-pipelines-using-pyspark-pydata-bratislava-meetup-3), [YouTube](https://www.youtube.com/watch?v=b0gDfCptNOk)
 
 * https://www.meetup.com/PyData-Bratislava/events/239255882/
 
 * https://www.eventbrite.com/e/pydata-bratislava-meetup-3-building-ai-data-pipelines-using-pyspark-tickets-33765397212#
 
 * https://www.facebook.com/events/1879974522214572/
+
+## 2017-6-12 [PyData Bratislava Meetup #4](https://github.com/GapData/PyDataBratislava/tree/master/2017_6_12_PyDataBratislava_MeetUp4) [[Michal Šustr](https://github.com/michalsustr): BNo Free Hunch: Kaggle competitions insights], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_6_12_PyDataBratislava_MeetUp3/2017-06-12-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/michal-ustr-no-free-hunch-kaggle-competitions-insights), [YouTube](https://www.youtube.com/watch?v=4wq0xSo12tg)
+
+* https://www.meetup.com/PyData-Bratislava/events/240372520/
+
+* https://www.eventbrite.com/e/pydata-bratislava-meetup-4-no-free-hunch-kaggle-competitions-insights-tickets-34958530907#
+
+* https://www.facebook.com/events/1968081896744598/
 
 ![R <- Slovakia](https://github.com/GapData/PyDataBratislava/blob/master/PyDataLogoRSlovakia.png)
 # Our MeetUp Groups: [#Meetup.com Group](https://www.meetup.com/R-Slovakia/), [#Facebook Group](https://www.facebook.com/groups/931707906955080/), [#LinkedIn Group](https://www.linkedin.com/groups/13503959), [#Slack](https://gapdata.slack.com/messages/r-slovakia/)
@@ -55,3 +63,11 @@ All the documents, presentations for PyDataBratislava
 * https://www.eventbrite.com/e/r-slovakia-meetup-1-clustering-electricity-consumers-prediction-tickets-32639868726#
 
 * https://www.facebook.com/events/223485601459069/
+
+## 2017-6-19 [PyData Bratislava R <- Slovakia Meetup #2](https://github.com/GapData/PyDataBratislava/tree/master/2017_6_19_PyDataBratislava_RSlovakia_MeetUp2) [[Michal Marušan](https://www.linkedin.com/in/michal-marusan-4331915/): Scalable R], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_6_19_PyDataBratislava_RSlovakia_MeetUp2/2017_6_19_PyDataBratislava_RSlovakia_MeetUp2.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/michal-maruan-scalable-r) [YouTube](https://www.youtube.com/watch?v=ENlo0a1-5Uo)
+
+* https://www.meetup.com/R-Slovakia/events/239009388/
+
+* https://www.eventbrite.com/e/r-slovakia-meetup-2-scalable-r-tickets-33492172991#
+
+* https://www.facebook.com/events/1016216541812783/
