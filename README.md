@@ -36,7 +36,7 @@ All the documents, presentations for PyDataBratislava
 
 * https://www.facebook.com/events/1879974522214572/
 
-## 2017-6-12 [PyData Bratislava Meetup #4](https://github.com/GapData/PyDataBratislava/tree/master/2017_6_12_PyDataBratislava_MeetUp4) [[Michal Šustr](https://github.com/michalsustr): No Free Hunch: Kaggle competitions insights], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_6_12_PyDataBratislava_MeetUp3/2017-06-12-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/michal-ustr-no-free-hunch-kaggle-competitions-insights), [YouTube](https://www.youtube.com/watch?v=4wq0xSo12tg)
+## 2017-6-12 [PyData Bratislava Meetup #4](https://github.com/GapData/PyDataBratislava/tree/master/2017_6_12_PyDataBratislava_MeetUp4) [[Michal Šustr](https://github.com/michalsustr): No Free Hunch: Kaggle competitions insights], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_6_12_PyDataBratislava_MeetUp4/2017-06-12-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/michal-ustr-no-free-hunch-kaggle-competitions-insights), [YouTube](https://www.youtube.com/watch?v=4wq0xSo12tg)
 
 * https://www.meetup.com/PyData-Bratislava/events/240372520/
 
