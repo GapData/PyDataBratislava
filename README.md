@@ -36,7 +36,7 @@ All the documents, presentations for PyDataBratislava
 
 * https://www.facebook.com/events/1879974522214572/
 
-## 2017-6-12 [PyData Bratislava Meetup #4](https://github.com/GapData/PyDataBratislava/tree/master/2017_6_12_PyDataBratislava_MeetUp4) [[Michal Šustr](https://github.com/michalsustr): No Free Hunch: Kaggle competitions insights], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_6_12_PyDataBratislava_MeetUp4/2017-06-12-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/michal-ustr-no-free-hunch-kaggle-competitions-insights), [YouTube](https://youtu.be/PkhLJef8E0U)
+## 2017-6-12 [PyData Bratislava Meetup #4](https://github.com/GapData/PyDataBratislava/tree/master/2017_6_12_PyDataBratislava_MeetUp4) [[Michal Šustr](https://github.com/michalsustr): No Free Hunch: Kaggle competitions insights], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_6_12_PyDataBratislava_MeetUp4/2017-06-12-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/michal-ustr-no-free-hunch-kaggle-competitions-insights), [YouTube](https://www.youtube.com/watch?v=PkhLJef8E0U)
 
 * https://www.meetup.com/PyData-Bratislava/events/240372520/
 
@@ -64,7 +64,7 @@ All the documents, presentations for PyDataBratislava
 
 * https://www.facebook.com/events/223485601459069/
 
-## 2017-6-19 [PyData Bratislava R <- Slovakia Meetup #2](https://github.com/GapData/PyDataBratislava/tree/master/2017_6_19_PyDataBratislava_RSlovakia_MeetUp2) [[Michal Marušan](https://www.linkedin.com/in/michal-marusan-4331915/): Scalable R], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_6_19_PyDataBratislava_RSlovakia_MeetUp2/2017_6_19_PyDataBratislava_RSlovakia_MeetUp2.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/michal-maruan-scalable-r), [YouTube](https://www.youtube.com/watch?v=ENlo0a1-5Uo)
+## 2017-6-19 [PyData Bratislava R <- Slovakia Meetup #2](https://github.com/GapData/PyDataBratislava/tree/master/2017_6_19_PyDataBratislava_RSlovakia_MeetUp2) [[Michal Marušan](https://www.linkedin.com/in/michal-marusan-4331915/): Scalable R], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_6_19_PyDataBratislava_RSlovakia_MeetUp2/2017_6_19_PyDataBratislava_RSlovakia_MeetUp2.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/michal-maruan-scalable-r), [YouTube](https://youtu.be/7hr6l_7PBGk)
 
 * https://www.meetup.com/R-Slovakia/events/239009388/
 
