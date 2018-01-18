@@ -44,6 +44,14 @@ All the documents, presentations for PyDataBratislava
 
 * https://www.facebook.com/events/1968081896744598/
 
+## 2017-11-27 [PyData Bratislava Meetup #5](https://github.com/GapData/PyDataBratislava/tree/master/2017_11_27_PyDataBratislava_MeetUp5) [[Martin Bago](https://github.com/MartinBago): How to create interactive maps in R & Python?], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_11_27_PyDataBratislava_MeetUp5/2017-11-27-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/), [YouTube](https://www.youtube.com/watch?v=SQICRNS9A2Y)
+
+* https://www.meetup.com/PyData-Bratislava/events/244935407/
+
+* https://www.eventbrite.com/e/pydata-bratislava-meetup-5-how-to-create-interactive-maps-in-r-python-tickets-39698799177#
+
+* https://www.facebook.com/events/142807216364060/
+
 ![R <- Slovakia](https://github.com/GapData/PyDataBratislava/blob/master/PyDataLogoRSlovakia.png)
 # Our MeetUp Groups: [#Meetup.com Group](https://www.meetup.com/R-Slovakia/), [#Facebook Group](https://www.facebook.com/groups/931707906955080/), [#LinkedIn Group](https://www.linkedin.com/groups/13503959), [#Slack](https://gapdata.slack.com/messages/r-slovakia/)
 
