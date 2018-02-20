@@ -44,7 +44,7 @@ All the documents, presentations for PyDataBratislava
 
 * https://www.facebook.com/events/1968081896744598/
 
-## 2017-11-27 [PyData Bratislava Meetup #5](https://github.com/GapData/PyDataBratislava/tree/master/2017_11_27_PyDataBratislava_MeetUp5) [[Martin Bago](https://github.com/MartinBago): How to create interactive maps in R & Python?], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_11_27_PyDataBratislava_MeetUp5/2017-11-27-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/), [YouTube](https://www.youtube.com/watch?v=SQICRNS9A2Y)
+## 2017-11-27 [PyData Bratislava Meetup #5](https://github.com/GapData/PyDataBratislava/tree/master/2017_11_27_PyDataBratislava_MeetUp5) [[Martin Bago](https://github.com/MartinBago): How to create interactive maps in R & Python?], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2017_11_27_PyDataBratislava_MeetUp5/2017-11-27-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/martin-bago-how-to-create-interactive-maps-in-r-python), [YouTube](https://www.youtube.com/watch?v=SQICRNS9A2Y)
 
 * https://www.meetup.com/PyData-Bratislava/events/244935407/
 
@@ -52,7 +52,7 @@ All the documents, presentations for PyDataBratislava
 
 * https://www.facebook.com/events/142807216364060/
 
-## 2018-2-19 [PyData Bratislava Meetup #6](https://github.com/GapData/PyDataBratislava/tree/master/2018_2_19_PyDataBratislava_MeetUp6) [[Ján Dolinský](http://jandolinsky.com/about.html): TIM: Large-scale Forecasting for Energy in Julia], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2018_2_19_PyDataBratislava_MeetUp6/2018-2-19-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/), [YouTube](https://www.youtube.com/watch?v=SQICRNS9A2Y)
+## 2018-2-19 [PyData Bratislava Meetup #6](https://github.com/GapData/PyDataBratislava/tree/master/2018_2_19_PyDataBratislava_MeetUp6) [[Ján Dolinský](http://jandolinsky.com/about.html): TIM: Large-scale Forecasting for Energy in Julia], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2018_2_19_PyDataBratislava_MeetUp6/2018-2-19-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/tim-largescale-energy-forecasting-in-julia/), [YouTube](https://www.youtube.com/watch?v=SQICRNS9A2Y)
 
 * https://www.meetup.com/PyData-Bratislava/events/247525053/
 
