@@ -52,6 +52,14 @@ All the documents, presentations for PyDataBratislava
 
 * https://www.facebook.com/events/142807216364060/
 
+## 2018-2-19 [PyData Bratislava Meetup #6](https://github.com/GapData/PyDataBratislava/tree/master/2018_2_19_PyDataBratislava_MeetUp6) [[Ján Dolinský](http://jandolinsky.com/about.html): TIM: Large-scale Forecasting for Energy in Julia], [download/slides (pdf)](https://github.com/GapData/PyDataBratislava/raw/master/2018_2_19_PyDataBratislava_MeetUp6/2018-2-19-PyData-Bratislava-Meetup.pdf), [Slideshare](https://www.slideshare.net/GapDataInstitute/), [YouTube](https://www.youtube.com/watch?v=SQICRNS9A2Y)
+
+* https://www.meetup.com/PyData-Bratislava/events/247525053/
+
+* https://www.eventbrite.com/e/pydata-bratislava-meetup-6-tim-large-scale-energy-forecasting-in-julia-tickets-42885765479
+
+* https://www.facebook.com/events/2005518216385216/
+
 ![R <- Slovakia](https://github.com/GapData/PyDataBratislava/blob/master/PyDataLogoRSlovakia.png)
 # Our MeetUp Groups: [#Meetup.com Group](https://www.meetup.com/R-Slovakia/), [#Facebook Group](https://www.facebook.com/groups/931707906955080/), [#LinkedIn Group](https://www.linkedin.com/groups/13503959), [#Slack](https://gapdata.slack.com/messages/r-slovakia/)
 
