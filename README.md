@@ -66,7 +66,7 @@ All the documents, presentations for PyDataBratislava
 ### Hashtag for our meetups: [#PyDataBA](https://twitter.com/search?f=tweets&vertical=default&q=%23PyDataBA) 
 ### Our Twitter account (follow us here): https://twitter.com/PyDataBA
 
-### We are always on the lookout for speakers for our monthly meetups. Please get in contact if you are interested in giving a talk. 
+### We are always on the lookout for speakers for our meetups. Please get in contact if you are interested in giving a talk. 
 ## #DataScience #R #Statistics
 
 ## Contact: radovan.kavicky@gapdata.org
