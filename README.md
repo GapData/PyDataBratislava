@@ -1,7 +1,7 @@
 # PyData Bratislava
 All the documents, presentations for PyDataBratislava
 ![PyDataBratislava](https://github.com/GapData/PyDataBratislava/blob/master/PyDataLogoBratislava.png)
-# Our MeetUp Groups: [#Meetup.com Group](https://www.meetup.com/PyData-Bratislava/), [#Facebook Group](https://www.facebook.com/groups/1813599648877946/), [#LinkedIn Group](https://www.linkedin.com/groups/13506080), [#Slack](https://gapdata.slack.com/messages/py-data/)
+# Our MeetUp Groups: [#Meetup.com Group](https://www.meetup.com/PyData-Bratislava/), [#Facebook Group](https://www.facebook.com/groups/1813599648877946/), [#LinkedIn Group](https://www.linkedin.com/groups/13506080), [#Slack](https://gapdata.slack.com/messages/py-data-messages/)
 
 ### Hashtag for our meetups: [#PyDataBA](https://twitter.com/search?f=tweets&vertical=default&q=%23PyDataBA) 
 ### Our Twitter account (follow us here): https://twitter.com/PyDataBA
